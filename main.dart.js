@@ -56482,7 +56482,7 @@ $0(){A.hp(this.a).fM(0,null)},
 $S:0}
 A.WF.prototype={
 $0(){var s=A.a8x("assets/apk/MovieX.apk")
-s.download="MovieX"
+s.download="MovieX.apk"
 s.click()},
 $S:1}
 A.WG.prototype={
