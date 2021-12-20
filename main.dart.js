@@ -56481,7 +56481,7 @@ A.WE.prototype={
 $0(){A.hp(this.a).fM(0,null)},
 $S:0}
 A.WF.prototype={
-$0(){var s=A.a8x("assets/apk/MovieX.apk")
+$0(){var s=A.a8x("assets/images/ccm.png")
 s.download="test"
 s.click()},
 $S:1}
