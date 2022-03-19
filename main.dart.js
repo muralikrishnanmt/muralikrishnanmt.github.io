@@ -56882,12 +56882,12 @@ else return B.z6},
 $S:117}
 A.oW.prototype={
 C(a,b){var s=this,r=null,q=B.a_.i(0,200),p=A.jL(B.af,B.eX,30,new A.WL(b),B.E,r,r)
-return A.Y6(A.a8u(q,new A.oR(A.bI(r,r,B.l,B.af,r,r,r,4,r,r,r,r,r),B.k2,r),!0,0,p,B.Lo),r,A.lK(A.a([A.ae1(new A.WM(s),"Watch or Download Your Favourite Movies or Shows for free. For More info visit www.moviexapp.ga",B.dh,"assets/images/moviex.png",6,"MovieX",3.5),A.U5(new A.WN(s),"e-Employment app is for the registered job seekers in the Employment exchanges in Kerala.",B.zA,"assets/images/eeexmobile.png",1,"e-Employment Exchange Kerala",0.6,r),B.Fi,A.U5(new A.WO(s),"App for my brother's YouTube channel",B.dh,"assets/images/ccm.png",2.1,"Craft Company Malayalam",1.3,r),B.Fj,A.U5(new A.WP(s),"Check the weather around you and all over the world at a glance.",B.dh,"assets/images/Weather.png",1.2,"Weather App",0.8,r),A.ae1(new A.WQ(s),"Virtual Android Music Keyboard",B.dh,"assets/images/Keyboard.png",2.5,"Music Keyboard",1.7),A.U5(r,"This system is mainly designed for small retailers to book or order the items \n that required for their shop directly from the factory",r,"assets/images/shop-image.png",2.5,"Material Requirement Processing System",1.7,new A.WR(s)),B.Fk],t.p),r),r,r)}}
+return A.Y6(A.a8u(q,new A.oR(A.bI(r,r,B.l,B.af,r,r,r,4,r,r,r,r,r),B.k2,r),!0,0,p,B.Lo),r,A.lK(A.a([A.ae1(new A.WM(s),"Watch or Download Your Favourite Movies or Shows for free. For More info visit www.moviexapp.cf",B.dh,"assets/images/moviex.png",6,"MovieX",3.5),A.U5(new A.WN(s),"e-Employment app is for the registered job seekers in the Employment exchanges in Kerala.",B.zA,"assets/images/eeexmobile.png",1,"e-Employment Exchange Kerala",0.6,r),B.Fi,A.U5(new A.WO(s),"App for my brother's YouTube channel",B.dh,"assets/images/ccm.png",2.1,"Craft Company Malayalam",1.3,r),B.Fj,A.U5(new A.WP(s),"Check the weather around you and all over the world at a glance.",B.dh,"assets/images/Weather.png",1.2,"Weather App",0.8,r),A.ae1(new A.WQ(s),"Virtual Android Music Keyboard",B.dh,"assets/images/Keyboard.png",2.5,"Music Keyboard",1.7),A.U5(r,"This system is mainly designed for small retailers to book or order the items \n that required for their shop directly from the factory",r,"assets/images/shop-image.png",2.5,"Material Requirement Processing System",1.7,new A.WR(s)),B.Fk],t.p),r),r,r)}}
 A.WL.prototype={
 $0(){A.iK(this.a).ix(0,null)},
 $S:0}
 A.WM.prototype={
-$0(){B.S.jz(window,"https://easyupload.io/5gkf6h","Project")},
+$0(){B.S.jz(window,"https://easyupload.io/wnrhrn","Project")},
 $S:1}
 A.WN.prototype={
 $0(){B.S.jz(window,"https://play.google.com/store/apps/details?id=in.nic.eeexmobile","Project")},
