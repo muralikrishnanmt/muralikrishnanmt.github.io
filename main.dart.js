@@ -56887,7 +56887,7 @@ A.WL.prototype={
 $0(){A.iK(this.a).ix(0,null)},
 $S:0}
 A.WM.prototype={
-$0(){B.S.jz(window,"https://easyupload.io/wnrhrn","Project")},
+$0(){B.S.jz(window,"https://easyupload.io/qgmd15","Project")},
 $S:1}
 A.WN.prototype={
 $0(){B.S.jz(window,"https://play.google.com/store/apps/details?id=in.nic.eeexmobile","Project")},
