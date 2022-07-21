@@ -58067,7 +58067,7 @@ A.Xp.prototype={
 $0(){A.j1(this.a).iB(0,null)},
 $S:0}
 A.Xq.prototype={
-$0(){B.T.jw(window,"https://easyupload.io/ujsazi","Project")},
+$0(){B.T.jw(window,"https://easyupload.io/0e8nmv","Project")},
 $S:1}
 A.Xr.prototype={
 $0(){B.T.jw(window,"https://play.google.com/store/apps/details?id=in.nic.eeexmobile","Project")},
