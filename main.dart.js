@@ -60140,7 +60140,7 @@ A.Yt.prototype={
 $0(){A.iX(this.a).iH(null)},
 $S:0}
 A.Yu.prototype={
-$0(){B.b5.jF(window,"https://easyupload.io/i22geu","Project")},
+$0(){B.b5.jF(window,"https://easyupload.io/r9etf7","Project")},
 $S:2}
 A.Yv.prototype={
 $0(){B.b5.jF(window,"https://play.google.com/store/apps/details?id=in.nic.eeexmobile","Project")},
