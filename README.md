@@ -1,4 +1,4 @@
-# muralikrishnanmt.github.io
+# www.muralikrishnanmt.com
 
 ## My Portfolio Website fully Developed using ❤️ Flutter Web ❤️
 
