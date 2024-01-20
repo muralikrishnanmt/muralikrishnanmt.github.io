@@ -67647,7 +67647,7 @@ $S:2}
 A.a_C.prototype={
 $0(){var s=window
 s.toString
-B.bc.hQ(s,"https://drive.google.com/file/d/1ALTvxote8avyj8qOArkCGanPNAu8j4sK/view","Project")},
+B.bc.hQ(s,"https://drive.usercontent.google.com/download?id=1ALTvxote8avyj8qOArkCGanPNAu8j4sK&export=download&authuser=0","Project")},
 $S:2}
 A.a_D.prototype={
 $0(){var s=window
