@@ -67647,7 +67647,7 @@ $S:2}
 A.a_C.prototype={
 $0(){var s=window
 s.toString
-B.bc.hQ(s,"https://drive.usercontent.google.com/download?id=1ALTvxote8avyj8qOArkCGanPNAu8j4sK&export=download&authuser=0","Project")},
+B.bc.hQ(s,"https://www.dropbox.com/scl/fi/dt3z5kicp5aoigdfuegpv/MovieX_v2.1.5.apk?rlkey=pteckxcd8il8e68f0ctp80nd7&dl=1","Project")},
 $S:2}
 A.a_D.prototype={
 $0(){var s=window
