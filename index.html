@@ -1,101 +1,119 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
+
+  <base href="/">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Murali Krishnan MT – Mobile App Developer | Software Engineer</title>
+  <meta name="description"
+    content="Murali Krishnan MT is a software engineer and mobile app developer with over 5 years of experience in Android and iOS development. Currently working as a Senior Software Engineer at Tech Mahindra.">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://www.muralikrishnanmt.com" />
+
+  <!-- Open Graph (Facebook, LinkedIn) -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.muralikrishnanmt.com">
+  <meta property="og:title" content="Murali Krishnan MT – Mobile App Developer">
+  <meta property="og:description"
+    content="Software engineer with 5+ years experience in Android and iOS development. Currently working at Tech Mahindra.">
+  <meta property="og:image"
+    content="https://raw.githubusercontent.com/muralikrishnanmt/muralikrishnanmt.github.io/main/assets/assets/images/murali.png">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://www.muralikrishnanmt.com">
+  <meta name="twitter:title" content="Murali Krishnan MT – Software Engineer">
+  <meta name="twitter:description"
+    content="Senior Software Engineer at Tech Mahindra, expert in mobile app development.">
+  <meta name="twitter:image"
+    content="https://raw.githubusercontent.com/muralikrishnanmt/muralikrishnanmt.github.io/main/assets/assets/images/murali.png">
+
+  <!-- Structured Data (Schema.org) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Person",
+    "name": "Murali Krishnan MT",
+    "jobTitle": "Senior Software Engineer",
+    "url": "https://www.muralikrishnanmt.com",
+    "sameAs": [
+      "https://www.linkedin.com/in/muralikrishnan-mt",
+      "https://github.com/muralikrishnanmt"
+    ],
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Tech Mahindra"
+    }
+  }
+  </script>
+
+  <!-- Icons and Manifest -->
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link rel="manifest" href="manifest.json">
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZB51KS0V66"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-ZB51KS0V66');
+  </script>
+
+  <!-- Loader Styles -->
   <style>
+    body {
+      margin: 0;
+      background-color: #ffffff;
+    }
+
     .loading {
       display: flex;
       justify-content: center;
       align-items: center;
-      margin: 0;
       position: absolute;
       top: 50%;
       left: 50%;
-      -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%);
     }
-    
+
     .loader {
       border: 16px solid #f3f3f3;
       border-radius: 50%;
-      border: 15px solid ;
       border-top: 16px solid #66BFBF;
       border-right: 16px solid white;
       border-bottom: 16px solid #66BFBF;
       border-left: 16px solid white;
       width: 120px;
       height: 120px;
-      -webkit-animation: spin 2s linear infinite;
       animation: spin 2s linear infinite;
     }
-    
-    @-webkit-keyframes spin {
-      0% {
-        -webkit-transform: rotate(0deg);
-      }
-      100% {
-        -webkit-transform: rotate(360deg);
-      }
-    }
-    
+
     @keyframes spin {
       0% {
         transform: rotate(0deg);
       }
+
       100% {
         transform: rotate(360deg);
       }
     }
   </style>
-  <!--
-    If you are serving your web app in a path other than the root, change the
-    href value below to reflect the base path you are serving from.
-
-    The path provided below has to start and end with a slash "/" in order for
-    it to work correctly.
-
-    For more details:
-    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
-
-    This is a placeholder for base href that will be replaced by the value of
-    the `--base-href` argument provided to `flutter build`.
-  -->
-  
-  <meta charset="UTF-8">
-  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="My Personal Website">
-
-  <!-- iOS meta tags & icons -->
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="Murali Krishnan MT">
-  <link rel="apple-touch-icon" href="icons/Icon-192.png">
-
-
-  <meta property="og:image" content="https://raw.githubusercontent.com/muralikrishnanmt/muralikrishnanmt.github.io/main/assets/assets/images/murali.png"/>  
-  <meta property="og:title" content="Murali Krishnan MT"/>  
-  <meta property="og:description" content="My Personal Website"/>  
-
-  <!-- Favicon -->
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-  <link rel="icon" href="favicon.ico" type="image/x-icon">
-
-  <title>Murali Krishnan MT</title>
-  <link rel="manifest" href="manifest.json">
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZB51KS0V66"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-ZB51KS0V66');
-  </script>
-<base href="/">
 </head>
+
 <body>
   <div class="loading">
     <div class="loader"></div>
   </div>
+
+  <!-- Flutter app script -->
   <script src="main.dart.js" type="application/javascript"></script>
-  </body>
+</body>
+
 </html>
